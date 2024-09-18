@@ -1,7 +1,7 @@
 # RustLogger:
 - This repository contains two components: a RustLogger Client and a RustLogger Server. The client captures keystrokes and transmits them to the server, which logs them for analysis.
 
-###Prerequisites
+### Prerequisites
 - Rust: Ensure you have Rust installed on your system.
 - Cargo: Comes bundled with Rust for building and managing dependencies.
 
