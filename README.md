@@ -1,9 +1,9 @@
-#RustLogger:
--This repository contains two components: a RustLogger Client and a RustLogger Server. The client captures keystrokes and transmits them to the server, which logs them for analysis.
+# RustLogger:
+- This repository contains two components: a RustLogger Client and a RustLogger Server. The client captures keystrokes and transmits them to the server, which logs them for analysis.
 
 ###Prerequisites
--Rust: Ensure you have Rust installed on your system.
-*Cargo: Comes bundled with Rust for building and managing dependencies.
+- Rust: Ensure you have Rust installed on your system.
+- Cargo: Comes bundled with Rust for building and managing dependencies.
 
 RustLogger-client/: Contains the client application.
 RustLogger-server/: Contains the server application.
@@ -34,8 +34,8 @@ Run the server:
 ```
 cargo run
 ```
-###Logging Keystrokes:
--The keylogger server will store captured keystrokes in keystrokes.txt.
+### Logging Keystrokes:
+- The keylogger server will store captured keystrokes in keystrokes.txt.
 
-###Contributions
--Feel free to fork this repository and contribute!
+### Contributions
+- Feel free to fork this repository and contribute!
