@@ -5,7 +5,7 @@
 - Rust: Ensure you have Rust installed on your system.
 - Cargo: Comes bundled with Rust for building and managing dependencies.
 
-RustLogger-client/: Contains the client application.
+RustLogger-client/: Contains the client application. <br/>
 RustLogger-server/: Contains the server application.
 
 ### Instructions <br/>
@@ -35,8 +35,8 @@ Run the server:
 ```
 cargo run
 ```
-### Logging Keystrokes:
-- The keylogger server will store captured keystrokes in keystrokes.txt.
+### Logging Keystrokes:<br/>
+The keylogger server will store captured keystrokes in keystrokes.txt.
 
-### Contributions
-- Feel free to fork this repository and contribute!
+### Contributions<br/>
+Feel free to fork this repository and contribute!
