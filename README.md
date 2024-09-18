@@ -1,5 +1,5 @@
-# RustLogger:
-- This repository contains two components: a RustLogger Client and a RustLogger Server. The client captures keystrokes and transmits them to the server, which logs them for analysis.
+# RustLogger: <br/>
+ This repository contains two components: a RustLogger Client and a RustLogger Server. The client captures keystrokes and transmits them to the server, which logs them for analysis.
 
 ### Prerequisites
 - Rust: Ensure you have Rust installed on your system.
@@ -7,7 +7,8 @@
 
 RustLogger-client/: Contains the client application.
 RustLogger-server/: Contains the server application.
-###Instructions
+
+### Instructions <br/>
 Build & Run Client
 Navigate to the client directory:
 ```
